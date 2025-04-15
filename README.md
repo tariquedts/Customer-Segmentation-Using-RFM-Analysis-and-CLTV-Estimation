@@ -87,10 +87,6 @@ These clusters can inform targeted marketing campaigns and personalized experien
    jupyter notebook notebooks/customer_segmentation.ipynb
    ```
 
-## 📚 Dataset Source
-
-The data used in this project comes from the [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail).
-
 ## 🙌 Acknowledgements
 
 Inspired by customer analytics techniques in retail and e-commerce. Visualization styles influenced by common data science best practices.
@@ -98,7 +94,7 @@ Inspired by customer analytics techniques in retail and e-commerce. Visualizatio
 ## 📬 Contact
 
 For any queries or collaborations, reach out to:  
-**Your Name** – [LinkedIn](https://linkedin.com/in/your-profile) | your.email@example.com
+**TARIQUE ANWAR** – [LinkedIn](https://www.linkedin.com/in/tarique-anwar-bb8535a1/) | tarique.dts@gmail.com
 
 ---
 
