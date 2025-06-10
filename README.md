@@ -17,7 +17,7 @@ The project demonstrates how to:
 Customer-Segmentation-RFM-Analysis/
 │
 ├── data/
-│   └── online_retail.csv            # Raw dataset (from UCI ML Repository)
+│   └── online_retail.csv            # Raw dataset 
 │
 ├── notebooks/
 │   └── customer_segmentation.ipynb  # Main analysis notebook
